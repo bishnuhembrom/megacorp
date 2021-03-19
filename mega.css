@@ -1,0 +1,135 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.fon{
+    
+    font-family: 'Roboto', sans-serif;
+}
+.banner{ 
+    width: 100%;
+    background-image: url("banner.jpg");
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    color:white;
+    text-align: center; 
+    font-family: 'Roboto', sans-serif;
+} 
+ul{
+    float: right; 
+    position: relative;
+    top: 20px;
+    color:white;
+    padding: 0;
+    margin: 0; 
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300px;
+}
+li{  
+    border-radius: 5px;
+    float:left; 
+    list-style: none;
+}
+a{
+    text-decoration: none; 
+    margin-left: 25px; 
+    color:white;
+    border-radius: 3px;
+    background-color: #337ab7 ;
+}
+a:hover{ 
+    padding: 15px 20px;
+    background-color: #337ab7 ; 
+} 
+a:visited{
+    color:white;
+}
+li a.active {
+    background-color: #337ab7;
+    color: white;
+    padding: 15px 20px;
+  }
+  .bton{
+    background-color: #337ab7;
+    color: white;
+    padding: 15px 50px;   
+    font-family: 'Roboto', sans-serif;
+    border: 0;
+    border-radius: 4px;
+    margin-top: 40px;
+    margin-bottom: 200px;
+    font-size: 16px;
+  }
+  /* background-color: #337ab7; */
+  .sec{
+      padding-bottom: 130px;
+  }
+  .banner p{
+      line-height: 15px;
+      font-weight: 300px;
+      font-size: 17px;
+  }
+  .banner h2{
+      font-size: 33px;
+      padding-bottom: 8px;
+  }
+  /*second stards*/ /*second stards*/ /*second stards*/ /*second stards*/
+  .two{
+      width: 100%;
+      background-color: black;
+      color: white;
+      line-height: 25px;
+      padding:50px 0;
+  }
+  .two h3{
+   font-size: 26px; 
+
+  }
+  .two span{
+    font-size: 50px; 
+ 
+   }
+  .two p{ 
+  font-weight:300px; 
+  margin-bottom: 50px;
+  } 
+  .fon,img{
+      border-radius: 5px;
+  }
+  button{
+    background-color: #337ab7;
+    color: white;
+    padding: 10px 30px;   
+    font-family: 'Roboto', sans-serif;
+    border: 0;
+    border-radius: 4px;   
+  }
+  .three{  
+      background-color:rgb(26, 23, 23); 
+    color:white; 
+    padding: 50px 0;
+    font-family: 'Roboto', sans-serif;
+  }
+.three p{ 
+    color: rgb(228, 223, 220);
+     line-height: 22px;
+     font-size: 16px;
+     word-spacing: 1px;
+     font-weight: 300px;
+     font-family: 'Roboto', sans-serif;
+  }
+  .padd,p{  
+  }
+ .tre i{ 
+     color:gray;
+    font-size:8px;
+    font-style: 10px;
+ }
+ .demo{
+     padding: 10px 0;
+ }
+ .mar{
+    position: relative; 
+    top: 30px;
+ }
